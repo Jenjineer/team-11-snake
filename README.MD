@@ -1,6 +1,6 @@
 # Team 11 Battlesnake
 
-A survival-focused Battlesnake written in Python for the ASRC Federal tech summit
+A survival-focused Battlesnake written in Python for the 2026 tech summit
 competition. Reached the finals (top 4 of 16 teams).
 
 The snake picks each move by scoring all four possible directions and choosing the
